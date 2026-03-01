@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <a href="https://doi.org/10.5281/zenodo.18822554"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18822554.svg" alt="Zenodo DOI"></a>
+</p>
+
+<p align="center">
   Generate self-contained interactive STEM simulations from a compact SimSpec.
 </p>
 
@@ -114,6 +118,14 @@ Typical output is one `index.html` file that can be opened directly in a browser
 This repository includes a [CITATION.cff](CITATION.cff) file so GitHub can expose a "Cite this repository" action once the project is pushed to GitHub.
 
 If you use this work in research, teaching materials, or software projects, cite the repository version you used.
+
+- Concept DOI for the project: [10.5281/zenodo.18822554](https://doi.org/10.5281/zenodo.18822554)
+- Archived release DOI for `v0.1.4`: [10.5281/zenodo.18822711](https://doi.org/10.5281/zenodo.18822711)
+
+Suggested citation flow:
+
+- cite the concept DOI when you want to reference the project as an evolving software artifact
+- cite the version DOI when you want a fully frozen, reproducible archived release
 
 ## License
 
