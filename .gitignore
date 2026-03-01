@@ -1,0 +1,19 @@
+.DS_Store
+node_modules/
+.clawhub/
+.clawdhub/
+.playwright/
+dist/
+build/
+coverage/
+
+# Local generated verification artifacts
+output/generated/
+output/playwright/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local planning/input files
+instructions(1).md
