@@ -1,0 +1,29 @@
+{
+  "title": "Science Simulation Author",
+  "description": "An OpenClaw skill bundle for generating self-contained interactive science simulations as a single offline HTML file from a compact SimSpec.",
+  "creators": [
+    {
+      "name": "dimgouso"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "OpenClaw",
+    "science simulation",
+    "interactive simulation",
+    "STEM education",
+    "physics",
+    "offline HTML",
+    "canvas"
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/dimgouso/science-sim-author",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "software"
+    }
+  ]
+}
