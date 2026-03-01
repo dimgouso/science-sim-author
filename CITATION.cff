@@ -7,6 +7,8 @@ date-released: 2026-03-01
 license: "MIT"
 authors:
   - family-names: "dimgouso"
+repository-code: "https://github.com/dimgouso/science-sim-author"
+url: "https://github.com/dimgouso/science-sim-author"
 abstract: "An OpenClaw skill bundle for generating self-contained interactive science simulations as a single offline HTML file from a compact SimSpec."
 keywords:
   - "openclaw"
